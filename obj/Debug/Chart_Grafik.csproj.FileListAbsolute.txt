@@ -1,0 +1,11 @@
+D:\Projects\Chart_Grafik\bin\Debug\Chart_Grafik.exe.config
+D:\Projects\Chart_Grafik\bin\Debug\Chart_Grafik.exe
+D:\Projects\Chart_Grafik\bin\Debug\Chart_Grafik.pdb
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.AssemblyReference.cache
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.Form1.resources
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.Properties.Resources.resources
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.GenerateResource.cache
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.csproj.CoreCompileInputs.cache
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.exe
+D:\Projects\Chart_Grafik\obj\Debug\Chart_Grafik.pdb
